@@ -1,0 +1,5 @@
+https://www.wolframalpha.com/input/?i=y%27%2B2*x*y%3D2*x*y%5E2
+
+https://www.wolframalpha.com/input/?i=y%27%2B2*x*y%3D2*x*y%5E2,+y(0)%3D0.5
+
+http://mathprofi.ru/lineinye_differencialnye_uravnenija.html

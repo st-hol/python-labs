@@ -1,0 +1,25 @@
+C:\Users\Администратор\Desktop\Lab_5 ChMI\Laba__1\bin\Debug\Laba__1.exe
+C:\Users\Администратор\Desktop\Lab_5 ChMI\Laba__1\bin\Debug\Laba__1.pdb
+C:\Users\Администратор\Desktop\Lab_5 ChMI\Laba__1\obj\x86\Debug\Laba__1.Form1.resources
+C:\Users\Администратор\Desktop\Lab_5 ChMI\Laba__1\obj\x86\Debug\Laba__1.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Lab_5 ChMI\Laba__1\obj\x86\Debug\Laba 6 ChMI.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\Lab_5 ChMI\Laba__1\obj\x86\Debug\Laba__1.exe
+C:\Users\Администратор\Desktop\Lab_5 ChMI\Laba__1\obj\x86\Debug\Laba__1.pdb
+C:\Users\Администратор\Desktop\Lab_6 ChMI\Laba__1\bin\Debug\Laba__1.exe
+C:\Users\Администратор\Desktop\Lab_6 ChMI\Laba__1\bin\Debug\Laba__1.pdb
+C:\Users\Администратор\Desktop\Lab_6 ChMI\Laba__1\obj\x86\Debug\Laba 6 ChMI.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Lab_6 ChMI\Laba__1\obj\x86\Debug\Laba__1.Form1.resources
+C:\Users\Администратор\Desktop\Lab_6 ChMI\Laba__1\obj\x86\Debug\Laba__1.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Lab_6 ChMI\Laba__1\obj\x86\Debug\Laba 6 ChMI.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\Lab_6 ChMI\Laba__1\obj\x86\Debug\Laba__1.exe
+C:\Users\Администратор\Desktop\Lab_6 ChMI\Laba__1\obj\x86\Debug\Laba__1.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Lab_7 ChMI\Laba__1\obj\x86\Debug\Laba__1.exe
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Lab_7 ChMI\Laba__1\obj\x86\Debug\Laba__1.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Lab_7 ChMI\Laba__1\bin\Debug\Laba__1.exe
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Lab_7 ChMI\Laba__1\bin\Debug\Laba__1.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Lab_7 ChMI\Laba__1\obj\x86\Debug\Laba 6 ChMI.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Lab_7 ChMI\Laba__1\obj\x86\Debug\Laba__1.Form1.resources
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Lab_7 ChMI\Laba__1\obj\x86\Debug\Laba__1.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\Lab_7 ChMI\Laba__1\obj\x86\Debug\Laba 6 ChMI.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\Lab_7 ChMI\Laba__1\obj\x86\Debug\Laba__1.exe
+C:\Users\Администратор\Desktop\Lab_7 ChMI\Laba__1\obj\x86\Debug\Laba__1.pdb

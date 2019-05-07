@@ -1,0 +1,40 @@
+C:\Users\Администратор\Desktop\Lab_7 ChMI\Laba__1\bin\Debug\Laba__1.exe
+C:\Users\Администратор\Desktop\Lab_7 ChMI\Laba__1\bin\Debug\Laba__1.pdb
+C:\Users\Администратор\Desktop\Lab_7 ChMI\Laba__1\obj\x86\Debug\Lab1_ChMI-2.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Lab_7 ChMI\Laba__1\obj\x86\Debug\Laba__1.Form1.resources
+C:\Users\Администратор\Desktop\Lab_7 ChMI\Laba__1\obj\x86\Debug\Laba__1.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Lab_7 ChMI\Laba__1\obj\x86\Debug\Lab1_ChMI-2.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\Lab_7 ChMI\Laba__1\obj\x86\Debug\Laba__1.exe
+C:\Users\Администратор\Desktop\Lab_7 ChMI\Laba__1\obj\x86\Debug\Laba__1.pdb
+C:\Users\Администратор\Desktop\Lab1_ChMI-2\Laba__1\obj\x86\Debug\Laba__1.exe
+C:\Users\Администратор\Desktop\Lab1_ChMI-2\Laba__1\obj\x86\Debug\Laba__1.pdb
+C:\Users\Администратор\Desktop\Lab1_ChMI-2\Laba__1\bin\Debug\Laba__1.exe
+C:\Users\Администратор\Desktop\Lab1_ChMI-2\Laba__1\bin\Debug\Laba__1.pdb
+C:\Users\Администратор\Desktop\Lab1_ChMI-2\Laba__1\obj\x86\Debug\Lab1_ChMI-2.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Lab1_ChMI-2\Laba__1\obj\x86\Debug\Laba__1.Form1.resources
+C:\Users\Администратор\Desktop\Lab1_ChMI-2\Laba__1\obj\x86\Debug\Laba__1.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Lab1_ChMI-2\Laba__1\obj\x86\Debug\Lab1_ChMI-2.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Lab1_ChMI-2\Laba__1\obj\x86\Debug\Laba__1.exe
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Lab1_ChMI-2\Laba__1\obj\x86\Debug\Laba__1.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Lab1_ChMI-2\Laba__1\bin\Debug\Laba__1.exe
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Lab1_ChMI-2\Laba__1\bin\Debug\Laba__1.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Lab1_ChMI-2\Laba__1\obj\x86\Debug\Laba__1.Form1.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Lab1_ChMI-2\Laba__1\obj\x86\Debug\Laba__1.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Lab1_ChMI-2\Laba__1\obj\x86\Debug\Lab1_ChMI-2.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Lab1_ChMI-2\Laba__1\obj\x86\Debug\Lab1_ChMI-2.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Lab2_ChMI-2\Laba__1\obj\x86\Debug\Laba__1.exe
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Lab2_ChMI-2\Laba__1\obj\x86\Debug\Laba__1.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Lab2_ChMI-2\Laba__1\obj\x86\Debug\Lab1_ChMI-2.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Lab2_ChMI-2\Laba__1\obj\x86\Debug\Laba__1.Form1.resources
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Lab2_ChMI-2\Laba__1\obj\x86\Debug\Lab1_ChMI-2.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Lab2_ChMI-2\Laba__1\bin\Debug\Laba__1.exe
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Lab2_ChMI-2\Laba__1\bin\Debug\Laba__1.pdb
+C:\Users\Администратор\Documents\Visual Studio 2012\Projects\Lab2_ChMI-2\Laba__1\obj\x86\Debug\Laba__1.Properties.Resources.resources
+J:\Files\ChMI\Lab2_ChMI-2\Laba__1\obj\x86\Debug\Laba__1.exe
+J:\Files\ChMI\Lab2_ChMI-2\Laba__1\obj\x86\Debug\Laba__1.pdb
+J:\Files\ChMI\Lab2_ChMI-2\Laba__1\bin\Debug\Laba__1.exe
+J:\Files\ChMI\Lab2_ChMI-2\Laba__1\bin\Debug\Laba__1.pdb
+J:\Files\ChMI\Lab2_ChMI-2\Laba__1\obj\x86\Debug\Lab1_ChMI-2.csprojResolveAssemblyReference.cache
+J:\Files\ChMI\Lab2_ChMI-2\Laba__1\obj\x86\Debug\Laba__1.Form1.resources
+J:\Files\ChMI\Lab2_ChMI-2\Laba__1\obj\x86\Debug\Laba__1.Properties.Resources.resources
+J:\Files\ChMI\Lab2_ChMI-2\Laba__1\obj\x86\Debug\Lab1_ChMI-2.csproj.GenerateResource.Cache

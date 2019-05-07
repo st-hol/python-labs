@@ -1,0 +1,10 @@
+G:\Files\Учеба\Lab_5 ChMI\Laba__1\obj\x86\Debug\Laba__1.exe
+G:\Files\Учеба\Lab_5 ChMI\Laba__1\obj\x86\Debug\Laba__1.pdb
+G:\Files\Учеба\Lab_5 ChMI\Laba__1\bin\Debug\Laba__1.exe
+G:\Files\Учеба\Lab_5 ChMI\Laba__1\bin\Debug\Laba__1.pdb
+G:\Files\Учеба\Lab_5 ChMI\Laba__1\obj\x86\Debug\Laba__1.Form1.resources
+G:\Files\Учеба\Lab_5 ChMI\Laba__1\obj\x86\Debug\Laba__1.Properties.Resources.resources
+G:\Files\Учеба\Lab_5 ChMI\Laba__1\obj\x86\Debug\Laba 5 ChMI.csproj.GenerateResource.Cache
+G:\Files\Учеба\Lab_5 ChMI\Laba__1\obj\x86\Debug\Laba 5 ChMI.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Lab_5 ChMI\Laba__1\obj\x86\Debug\Laba__1.exe
+C:\Users\Администратор\Desktop\Lab_5 ChMI\Laba__1\obj\x86\Debug\Laba__1.pdb

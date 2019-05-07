@@ -1,0 +1,61 @@
+D:\Учеба\Чисельні методи\Laba__1\Laba__1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Учеба\Чисельні методи\Laba__1\Laba__1\obj\x86\Debug\Laba__1.Form1.resources
+D:\Учеба\Чисельні методи\Laba__1\Laba__1\obj\x86\Debug\Laba__1.Properties.Resources.resources
+D:\Учеба\Чисельні методи\Laba__1\Laba__1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Учеба\Чисельні методи\Laba__1\Laba__1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Учеба\Чисельні методи\Laba__1\Laba__1\bin\Debug\Laba__1.exe
+D:\Учеба\Чисельні методи\Laba__1\Laba__1\bin\Debug\Laba__1.pdb
+D:\Учеба\Чисельні методи\Laba__1\Laba__1\obj\x86\Debug\Laba__1.exe
+D:\Учеба\Чисельні методи\Laba__1\Laba__1\obj\x86\Debug\Laba__1.pdb
+H:\Laba__1\Laba__1\obj\x86\Debug\Laba__1.exe
+H:\Laba__1\Laba__1\obj\x86\Debug\Laba__1.pdb
+H:\Laba__1\Laba__1\bin\Debug\Laba__1.exe
+H:\Laba__1\Laba__1\bin\Debug\Laba__1.pdb
+H:\Laba__1\Laba__1\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Laba__1\Laba__1\obj\x86\Debug\Laba__1.Form1.resources
+H:\Laba__1\Laba__1\obj\x86\Debug\Laba__1.Properties.Resources.resources
+H:\Laba__1\Laba__1\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Laba__1\Laba__1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\User\Рабочий стол\Laba__1\Laba__1\obj\x86\Debug\Laba__1.exe
+C:\Documents and Settings\User\Рабочий стол\Laba__1\Laba__1\obj\x86\Debug\Laba__1.pdb
+C:\Documents and Settings\User\Рабочий стол\Laba__1\Laba__1\bin\Debug\Laba__1.exe
+C:\Documents and Settings\User\Рабочий стол\Laba__1\Laba__1\bin\Debug\Laba__1.pdb
+C:\Documents and Settings\User\Рабочий стол\Laba__1\Laba__1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Рабочий стол\Laba__1\Laba__1\obj\x86\Debug\Laba__1.Form1.resources
+C:\Documents and Settings\User\Рабочий стол\Laba__1\Laba__1\obj\x86\Debug\Laba__1.Properties.Resources.resources
+C:\Documents and Settings\User\Рабочий стол\Laba__1\Laba__1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\User\Рабочий стол\Laba__1\Laba__1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\User\Мои документы\Visual Studio 2010\Projects\Laba__1\Laba__1\obj\x86\Debug\Laba__1.exe
+C:\Documents and Settings\User\Мои документы\Visual Studio 2010\Projects\Laba__1\Laba__1\obj\x86\Debug\Laba__1.pdb
+C:\Documents and Settings\User\Мои документы\Visual Studio 2010\Projects\Laba__1\Laba__1\bin\Debug\Laba__1.exe
+C:\Documents and Settings\User\Мои документы\Visual Studio 2010\Projects\Laba__1\Laba__1\bin\Debug\Laba__1.pdb
+C:\Documents and Settings\User\Мои документы\Visual Studio 2010\Projects\Laba__1\Laba__1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Мои документы\Visual Studio 2010\Projects\Laba__1\Laba__1\obj\x86\Debug\Laba__1.Form1.resources
+C:\Documents and Settings\User\Мои документы\Visual Studio 2010\Projects\Laba__1\Laba__1\obj\x86\Debug\Laba__1.Properties.Resources.resources
+C:\Documents and Settings\User\Мои документы\Visual Studio 2010\Projects\Laba__1\Laba__1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\User\Мои документы\Visual Studio 2010\Projects\Laba__1\Laba__1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\User\Рабочий стол\Lab_4 ChMI\Laba__1\obj\x86\Debug\Laba__1.exe
+C:\Documents and Settings\User\Рабочий стол\Lab_4 ChMI\Laba__1\obj\x86\Debug\Laba__1.pdb
+C:\Documents and Settings\User\Рабочий стол\Lab_4 ChMI\Laba__1\bin\Debug\Laba__1.exe
+C:\Documents and Settings\User\Рабочий стол\Lab_4 ChMI\Laba__1\bin\Debug\Laba__1.pdb
+C:\Documents and Settings\User\Рабочий стол\Lab_4 ChMI\Laba__1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Рабочий стол\Lab_4 ChMI\Laba__1\obj\x86\Debug\Laba__1.Form1.resources
+C:\Documents and Settings\User\Рабочий стол\Lab_4 ChMI\Laba__1\obj\x86\Debug\Laba__1.Properties.Resources.resources
+C:\Documents and Settings\User\Рабочий стол\Lab_4 ChMI\Laba__1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\User\Рабочий стол\Lab_4 ChMI\Laba__1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\User\Рабочий стол\Учеба\Lab_5 ChMI\Laba__1\obj\x86\Debug\Laba__1.exe
+C:\Documents and Settings\User\Рабочий стол\Учеба\Lab_5 ChMI\Laba__1\obj\x86\Debug\Laba__1.pdb
+C:\Documents and Settings\User\Рабочий стол\Учеба\Lab_5 ChMI\Laba__1\bin\Debug\Laba__1.exe
+C:\Documents and Settings\User\Рабочий стол\Учеба\Lab_5 ChMI\Laba__1\bin\Debug\Laba__1.pdb
+C:\Documents and Settings\User\Рабочий стол\Учеба\Lab_5 ChMI\Laba__1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Рабочий стол\Учеба\Lab_5 ChMI\Laba__1\obj\x86\Debug\Laba__1.Form1.resources
+C:\Documents and Settings\User\Рабочий стол\Учеба\Lab_5 ChMI\Laba__1\obj\x86\Debug\Laba__1.Properties.Resources.resources
+C:\Documents and Settings\User\Рабочий стол\Учеба\Lab_5 ChMI\Laba__1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\User\Рабочий стол\Учеба\Lab_5 ChMI\Laba__1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Files\Учеба\Lab_5 ChMI\Laba__1\obj\x86\Debug\Laba__1.exe
+G:\Files\Учеба\Lab_5 ChMI\Laba__1\obj\x86\Debug\Laba__1.pdb
+G:\Files\Учеба\Lab_5 ChMI\Laba__1\bin\Debug\Laba__1.exe
+G:\Files\Учеба\Lab_5 ChMI\Laba__1\bin\Debug\Laba__1.pdb
+G:\Files\Учеба\Lab_5 ChMI\Laba__1\obj\x86\Debug\Laba__1.Form1.resources
+G:\Files\Учеба\Lab_5 ChMI\Laba__1\obj\x86\Debug\Laba__1.Properties.Resources.resources
+G:\Files\Учеба\Lab_5 ChMI\Laba__1\obj\x86\Debug\Laba__1.csproj.GenerateResource.Cache
